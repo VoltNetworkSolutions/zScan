@@ -1,4 +1,4 @@
-[zscan.png](https://github.com/VoltNetworkSolutions/zScan/blob/main/vScan.png?raw=true)
+![zscan.png](https://github.com/VoltNetworkSolutions/zScan/blob/main/vScan.png?raw=true)
 
 # Volt zScan
 
