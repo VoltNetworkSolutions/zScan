@@ -1,3 +1,5 @@
+[zscan.png](https://github.com/VoltNetworkSolutions/zScan/blob/main/vScan.png?raw=true)
+
 # Volt zScan
 
 Volt zScan is a JavaScript library designed to interface seamlessly with scanners on Zebra PS20/MC18 devices.
@@ -16,3 +18,10 @@ To install Volt zScan, simply include the library in your project:
 
 ```html
 <script src="path/to/zscan.min.js"></script>
+```
+and then use the handlers:
+```js
+    function handleScannedBarcode(scannedBarcode) {
+        console.log(scannedBarcode)
+    }
+```
